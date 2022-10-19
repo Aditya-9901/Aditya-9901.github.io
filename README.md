@@ -3,5 +3,5 @@
 [website]: https://Aditya-9901.github.io/
 
 
-<img  src="https://quartzcharan.github.io/images/charant.png" />
+<img  src="https://Aditya-9901.github.io/images/avv.png" />
 
